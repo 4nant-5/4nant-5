@@ -7,7 +7,7 @@
 <!-- ⚡ TYPING INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hey+there!+👋;ML+%7C+Data+Analytics+%7C+Java;Building+cool+stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+AI+%7C+Data+Analytics;GenAI+Enthusiast;Building+Real-World+Projects+🚀" />
 </p>
 
 ---
@@ -16,17 +16,28 @@
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-* 🚀 Working on **Stock Market ML & Real-time Analytics**
-* 💻 Exploring **Java + Python + APIs**
-* 🧠 Learning by building projects
-* 🎯 Goal: Top internship + strong portfolio
+* 💻 Passionate about **AI, ML & Data Analytics**
+* 🧠 Exploring **GenAI + LangChain**
+* 📊 Turning data into meaningful insights
+* 🚀 Focused on building impactful tech
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,sqlite&theme=dark" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 </p>
 
 ---
@@ -40,7 +51,7 @@
 
 ---
 
-## 🐍 Contribution Snake (moves!)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4nant-5/4nant-5/output/github-contribution-grid-snake.svg" />
@@ -48,7 +59,7 @@
 
 ---
 
-## 🔥 Activity Graph
+## 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4nant-5&theme=react-dark&hide_border=true"/>
@@ -56,25 +67,16 @@
 
 ---
 
-## 🎯 Current Focus
-
-<img align="right" height="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
-* 📊 ML models (Kaggle datasets)
-* ⚡ API-based real-time systems
-* 🧩 Clean UI + GitHub presence
-
----
-
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+  <a href="https://www.linkedin.com/in/4nant5ingh">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  💥 “Stay consistent. Results will come.” 💥
+  💥 “Data drives decisions. Code makes it happen.” 💥
 </p>
